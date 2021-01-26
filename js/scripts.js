@@ -6,6 +6,18 @@
     (function ($) {
     "use strict"; // Start of use strict
 
+    //owl carousel
+    $(document).ready(function(){
+    $('.owl-carousel').owlCarousel({
+
+      loop:true,
+     margin:10,
+     nav:true,
+
+    })
+  });
+
+
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
         if (
