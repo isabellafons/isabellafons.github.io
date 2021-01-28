@@ -163,7 +163,7 @@ sup {
 }
 
 a {
-  color: #4b627d;
+  color: #bcc7d9;
   text-decoration: none;
   background-color: transparent;
 }
@@ -9783,7 +9783,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #4b627d !important;
+  color: #bcc7d9 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10018,6 +10018,13 @@ p.lead {
   font-size: .9rem;
 }
 
+.subheading-2 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: .85rem;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -10082,7 +10089,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #bcc7d9;
 }
 
 .dev-icons {
